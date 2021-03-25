@@ -12,7 +12,7 @@ int main(int argc, string argv[])
     string keys=argv[1], plaintext;
     char c;
 
-    // Must be one argument in comand line
+    // Must be one argument in command line
     if (argc!=2)
     {
         printf("Usage: ./caesar key\n");
