@@ -10,3 +10,4 @@ Contains files:
 - **vigenere.c** incripts string with Vigenere cipher. Command line argument used for transfer a Key word.
 - **crack.c** is brutal force password crack for searching password for DES hash. Maximum lengh of pasword is 5 characters.
 - **brut.c** searching password for DES hash with dictionary of most used passwords. Dictionary file should be named "dict.txt" and placed in the same directory.
+- **factorial.c** using recursion for calculating factorial 
