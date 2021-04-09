@@ -3,7 +3,7 @@ cs50 course homework
 
 Contains files:
 
-## Basic syntacsys practice
+## Basic syntax practice
 - **hello.c** request NAME and print : "hello,  NAME".
 - **mario1.c**  builds pyramid made by # simbol. Used for practice in cycles.
 - **mario2.c** is more complicate variation of pyramid.
