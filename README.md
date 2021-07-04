@@ -10,7 +10,8 @@ Contains files:
 - **readability.c** request text than determine Coleman-Liau index of the text
 - **cash.c** calculate how many coins needed for pay rest. User for practice condition operators.
 - **credit.c** check credit card number velidity by Luhn algorithm and determine payment system
-- **caesar.c**  incripts string with Caesar cipher. Command line argument used for transfer a Key number. 
+- **caesar.c**  incripts string with Caesar cipher. Command line argument used for transfer a Key number.
+- **scrabble.c** compares  words scores and print winner.
 - **vigenere.c** incripts string with Vigenere cipher. Command line argument used for transfer a Key word.
 - **substitution.c** incript message based on simple substitution code, substitution alphabet should be provided as argument in comand line.
 ## Algorithm practice 
