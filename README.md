@@ -8,6 +8,7 @@ Contains files:
 - **mario1.c**  builds pyramid made by # simbol. Used for practice in cycles.
 - **mario2.c** is more complicate variation of pyramid.
 - **cash.c** calculate how many coins needed for pay rest. User for practice condition operators.
+- **credit.c** check credit card number velidity by Luhn algorithm and determine payment system
 - **caesar.c**  incripts string with Caesar cipher. Command line argument used for transfer a Key number. 
 - **vigenere.c** incripts string with Vigenere cipher. Command line argument used for transfer a Key word.
 ## Algorithm practice 
