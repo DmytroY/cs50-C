@@ -12,6 +12,7 @@ Contains files:
 - **credit.c** check credit card number velidity by Luhn algorithm and determine payment system
 - **caesar.c**  incripts string with Caesar cipher. Command line argument used for transfer a Key number. 
 - **vigenere.c** incripts string with Vigenere cipher. Command line argument used for transfer a Key word.
+- **substitution.c** incript message based on simple substitution code, substitution alphabet should be provided as argument in comand line.
 ## Algorithm practice 
 - **crack.c** is brutal force password crack for searching password for DES hash. Maximum lengh of pasword is 5 characters.
 - **brut.c** searching password for DES hash with dictionary of most used passwords. Dictionary file should be named "dict.txt" and placed in the same directory.
