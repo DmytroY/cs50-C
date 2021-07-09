@@ -12,6 +12,7 @@ Contains files:
 - **credit.c** check credit card number velidity by Luhn algorithm and determine payment system
 - **caesar.c**  incripts string with Caesar cipher. Command line argument used for transfer a Key number.
 - **plurality.v** program that runs a plurality election
+- **runoff.c** program that runs a runoff election
 - **scrabble.c** compares  words scores and print winner.
 - **vigenere.c** incripts string with Vigenere cipher. Command line argument used for transfer a Key word.
 - **substitution.c** incript message based on simple substitution code, substitution alphabet should be provided as argument in comand line.
