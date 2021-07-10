@@ -1,5 +1,5 @@
-# cs50
-cs50 course homework
+# Harvard CS50
+course labs and problemsets
 
 Contains files:
 
@@ -15,6 +15,7 @@ Contains files:
 - **runoff.c** program that runs a runoff election
 - **scrabble.c** compares  words scores and print winner.
 - **vigenere.c** incripts string with Vigenere cipher. Command line argument used for transfer a Key word.
+- **volume.c** modifies the volume of an audio file
 - **substitution.c** incript message based on simple substitution code, substitution alphabet should be provided as argument in comand line.
 ## Algorithm practice 
 - **crack.c** is brutal force password crack for searching password for DES hash. Maximum lengh of pasword is 5 characters.
