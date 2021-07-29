@@ -26,6 +26,7 @@ folder contains programs created for general syntactics practice
 
 ### speller-hashtable
 folder contains program that spell-checks a file using hashed dictionary.
-Usage: *./speller dictionaryfile textfile*
-*large.dic* will be used as dictionary file by default
+Usage: *./speller dictionaryfile textfile*.
+
+*large.dic* can be used as dictionary file by default.
 *lalaland.txt* can be used as text file example
