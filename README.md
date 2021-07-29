@@ -28,7 +28,7 @@ folder contains programs created for general syntactics practice
 folder contains programs for processing images:
 - **whodunit.c**  - remove red noise from image. Image format is not compressed 24-bit BMP file. Requires bmp.h .  clue.bmp can be used as test file - put it as first argument (intfile.bmp)
 - **resize.c** - resizes a not compressed 24-bit BMP file. usage format:  *./resize ratio infile outfile*. Requires bmp.h
-- **recover.c** - recovers deleted jpg images stored in FAT file system. Usage format: *./recover rawimagefile.* File *card.raw* can be used as test rawimagefile file.  
+- **recover.c** - recovers deleted jpg images stored in FAT file system. Usage format: *./recover rawimagefile.* File **card.raw** can be used as test rawimagefile file.  
 - **filter-bmp.zip** -contains source files for filtering bmp image. Usage format: *./filter [option] soursefile outfile*. [option] can be: **-b** for blur, **-e** for define edges, **-g** for make picture graycolor, **-r** for reflection
 
 ### speller-hashtable
