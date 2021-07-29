@@ -24,3 +24,8 @@ for general syntactics practice
 - **volume.c** modifies the volume of an audio file
 - **substitution.c** incript message based on simple substitution code, substitution alphabet should be provided as argument in comand line.
 
+# speller-hashtable
+folder contains program that spell-checks a file using hashed dictionary.
+Usage: *./speller dictionaryfile textfile*
+*large.dic* will be used as dictionary file by default
+*lalaland.txt* can be used as text file example
