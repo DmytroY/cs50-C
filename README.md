@@ -3,13 +3,13 @@ course labs and problemsets
 
 Contains files:
 
-## Algorithm 
+### Algorithm 
 - **crack.c** is brutal force password crack for searching password for DES hash. Maximum lengh of pasword is 5 characters.
 - **brut.c** searching password for DES hash with dictionary of most used passwords. Dictionary file should be named "dict.txt" and placed in the same directory.
 - **factorial.c** using recursion for calculating factorial 
 - 
-## Basic
-for general syntactics practice
+### Basic
+folder contains programs created for general syntactics practice
 - **hello.c** request NAME and print : "hello,  NAME".
 - **mario1.c**  builds pyramid made by # simbol. Used for practice in cycles.
 - **mario2.c** is more complicate variation of pyramid.
